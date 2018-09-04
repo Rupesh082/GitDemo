@@ -1,1 +1,2 @@
 This is a demo for git learning.
+This is a demo of master
